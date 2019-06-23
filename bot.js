@@ -10,4 +10,3 @@ channel.send(`السلام عليكم وعليكم السلام`);
 }, 25)
 })
 client.login(process.env.BOT_TOKEN);
-client2.login(process.env.TOKEN2);
